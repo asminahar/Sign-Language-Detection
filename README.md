@@ -11,10 +11,9 @@ Professor Minati Rath
 
 Machine Learning II Assignment:  American Sign Language Detection 
 By: 
-Anisha Jasti
 Asmi Nahar
 Thwishaa Bansal
-
+Anisha Jasti
 
 Link to google drive: (original dataset, augmented images, train set and validation set) https://drive.google.com/drive/folders/1mVkEIHwskNKGcJeyzBvZZtbbS51I-V3m?usp=sharing
 Abstract
